@@ -1,7 +1,7 @@
 
 /**********************************
 
-       Matrix template for DP
+      Matrix template for DP
           
 ***********************************/
 
